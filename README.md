@@ -1,4 +1,4 @@
-% Portfolio | Gregory Edmonds
+<title></title>
 
 # Web Development
 ## [Inside A Website](https://gregoryedmonds.github.io)

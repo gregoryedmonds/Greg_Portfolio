@@ -2,6 +2,7 @@
 ## [Inside A Website](https://gregoryedmonds.github.io)
 Website about the purpose and evolution of the internet, referring to itself to demonstrate technologies.
 Uses HTML, CSS, JavaScript and REST API's.
+[View on GitHub](https://github.com/gregoryedmonds/gregoryedmonds.github.io)
 
 # Data Analysis and Warehousing
 ## [Athletes Analysis](https://github.com/gregoryedmonds/AthletesAnalysis)

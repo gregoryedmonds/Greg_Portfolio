@@ -22,3 +22,15 @@ Project to build a data warehouse from a US Adult Income dataset and carry out d
 
 ## [Pizza Delivery Database](https://github.com/gregoryedmonds/PizzaDeliveryDatabase)
 Project to create a delivery database system for a pizza restaurant.
+
+# Agile App Development
+## [LabShare App](https://github.com/gregoryedmonds/LabShare-App)
+Collaborative iPhone app for sharing laboratory-related resources and expertise across a cancer research team.
+
+# Python Programs
+## [Synonym Finder](https://github.com/gregoryedmonds/SynonymFinder)
+Program to find similar words in a text document using the cosine singularity equation.
+Requires a sample text file, a text file of common words, and a text file of words to check synonyms for.
+
+## [Mark Checker](https://github.com/gregoryedmonds/MarkChecker)
+Program to determine which student has the best average mark across all the computer science units that they took across 3 years.

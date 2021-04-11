@@ -1,7 +1,7 @@
 # Web Development
 ## [Inside A Website](https://gregoryedmonds.github.io)
 Website about the purpose and evolution of the internet, referring to itself to demonstrate technologies.
-
+<br>
 Uses HTML, CSS, JavaScript and REST API's.
 
 [View on GitHub](https://github.com/gregoryedmonds/gregoryedmonds.github.io)
@@ -9,12 +9,12 @@ Uses HTML, CSS, JavaScript and REST API's.
 # Data Analysis and Warehousing
 ## [Athletes Analysis](https://github.com/gregoryedmonds/AthletesAnalysis)
 Analysis of Australian Athletes data to determine insights into differences between male and female athletes.
-
+<br>
 Makes use of principal component analysis, principal component regression, canonical correlation analysis, k-means clustering, linear discriminant analysis and logistic regression.
 
 ## [BCV2 Analysis](https://github.com/gregoryedmonds/BCV2Analysis)
 Analysis of BCV2 data to determine insights into kernel density estimation.
-
+<br>
 Makes use of principal component analysis, factor analysis (principal component and likelihood based), hierarchical clustering and discrimination (likelihood based and quadratic) methods.
 
 ## [Census Analysis](https://github.com/gregoryedmonds/CensusAnalysis)

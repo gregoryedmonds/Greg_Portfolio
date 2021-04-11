@@ -1,3 +1,5 @@
+<title>Test</title>
+
 # Web Development
 ## [Inside A Website](https://gregoryedmonds.github.io)
 Website about the purpose and evolution of the internet, referring to itself to demonstrate technologies. Uses HTML, CSS, JavaScript and REST API's.

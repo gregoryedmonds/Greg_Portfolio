@@ -1,2 +1,2 @@
 ## Gregory Edmonds
-# My Portfolio - University Projects
+# University Projects

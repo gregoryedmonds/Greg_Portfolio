@@ -22,7 +22,7 @@ Project to create a delivery database system for a pizza restaurant.
 
 # Agile App Development
 ## [LabShare App](https://github.com/gregoryedmonds/LabShare-App)
-Collaborative iOS app for sharing laboratory-related resources and expertise across a cancer research team.
+Collaborative iOS app for sharing laboratory-related resources and expertise across a cancer research team in Perth, WA.
 
 # Python Programs
 ## [Synonym Finder](https://github.com/gregoryedmonds/SynonymFinder)
